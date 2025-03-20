@@ -1,0 +1,5 @@
+# ignorar o arquivo bash de inicialização do servidor
+# uma vez que agora ele está com meu ip pessoal
+# e não quero vazá-lo
+
+*.sh
