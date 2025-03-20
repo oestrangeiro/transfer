@@ -1,0 +1,16 @@
+{
+    "name": "oestrangeiro/transfer",
+    "description": "A simple program that helps me to send files to my machine ('cause my machine doesn't have bluetooth lol)",
+    "autoload": {
+        "psr-4": {
+            "Oestrangeiro\\Transfer\\": "src/Oestrangeiro/Transfer"
+        }
+    },
+    "authors": [
+        {
+            "name": "oestrangeiro",
+            "email": "mateus12092004@gmail.com"
+        }
+    ],
+    "require": {}
+}
